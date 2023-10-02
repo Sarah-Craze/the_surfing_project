@@ -1,0 +1,30 @@
+.surf-3points{
+  padding-top: 300px;
+  
+}
+
+.surf-presentation {
+  padding-top: 50px;
+  color: white;
+}
+
+.temoignage {
+
+padding-top: 50px;
+}
+.temoin-image {
+
+ object-fit: contain;
+}
+
+.marge {
+
+background-color: gray;
+margin-top: -18px;
+margin-bottom: -25px;
+}
+
+.surf-3points {
+
+margin-top: -200px;
+}
